@@ -3,3 +3,4 @@
 
 def meal_choice(a, b = "meat")
 end
+meal_choice()
